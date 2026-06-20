@@ -14,9 +14,8 @@ I thrive in multicultural environments and bring a global, interdisciplinary per
 - Git • GitHub • VS Code • Rider • Postman
 
 <br>
-
 ## 🌐 Socials:
-[![LinkedIn]www.linkedin.com/in syed-arbaz-hussain-shah-788921100
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in syed-arbaz-hussain-shah-788921100) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](arbazshah11@gmail.com) 
 
 
 
