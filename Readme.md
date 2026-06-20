@@ -15,7 +15,7 @@ I thrive in multicultural environments and bring a global, interdisciplinary per
 
 <br>
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in syed-arbaz-hussain-shah-788921100) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](arbazshah11@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-arbaz-hussain-shah-788921100) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arbazshah11@gmail.com)
 
 
 
